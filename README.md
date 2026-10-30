@@ -5,6 +5,7 @@ A browser arcade game in one HTML file, built by a single prompt on Claude Code 
 Play it: https://gradedprompts.github.io/brick-breaker/
 
 `index.html` is the unedited output of one run of the prompt. Nothing was changed by hand after the run.
+
 SHA-256: `928219f324ace97414c81f23afad78aec5c773af1a03767f909160ba31d58fa2`
 
 The prompt that builds it is free on Graded Prompts: https://www.gradedprompts.com/prompts/apps
